@@ -1,6 +1,6 @@
 ---
-title: "Syntax Highlighting"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
+title: "FAQs"
+metaTitle: "Frequently Asked Questions"
 metaDescription: "This is the meta description for this page"
 ---
 

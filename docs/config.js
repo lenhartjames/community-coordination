@@ -45,20 +45,18 @@ const config = {
       '/Farming',
       '/Liquidity Pools',
     ],
-    collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
-    ],
-    links: [{ text: 'Hasura', link: 'https://docs.crypex.finance' }],
+
+    links: [{ text: 'CRYPTEX', link: 'https://docs.crypex.finance' }],
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
+      "<a href='https://docs.cryptex.finance'><img class='img-responsive' src='https://cryptex.finance/logo.svg' alt='Learn logo' /></a>",
   },
   siteMetadata: {
     title: 'Cryptex Finance Docs',
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: 'https://github.com/lenhartjames/community-coordination/tree/main/docs/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
