@@ -2,7 +2,7 @@
 
 Based off gatsby and hasura.
 
-![gatsby-gitbook-starter](https://graphql-engine-cdn.hasura.io/learn-hasura/gatsby-gitbook-starter/assets/documentation_app_blog.png)
+
 
 ## 🔥 Features
 - Write using Markdown / [MDX](https://github.com/mdx-js/mdx)
